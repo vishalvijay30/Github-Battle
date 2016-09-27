@@ -1,5 +1,5 @@
 # Github-Battle
-A class project for an online React.js course that I am taking
+A class project for an online React.js course that I am taking (code along with instructor)
 
 To run this project:
 
